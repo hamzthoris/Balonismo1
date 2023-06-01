@@ -19,10 +19,10 @@ public class Main {
         two.endereco = "São Paulo Rua XYX";
         two.termoderisco = "Assinado";
 
-        Piloto x = new Piloto();
-        x.nome = "";
-        x.cpf = "512.712.663-11";
-        x.registroanac = 36567;
+        Piloto funcionario = new Piloto();
+        funcionario.nome = "";
+        funcionario.cpf = "512.712.663-11";
+        funcionario.registroanac = 36567;
 
         Balao five = new Balao();
         five.identifier = 1342;
